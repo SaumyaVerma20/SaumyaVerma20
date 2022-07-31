@@ -19,6 +19,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaumyaVerma20&show_icons=true&locale=en&layout=compact" alt="saumyaverma20" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SaumyaVerma20&show_icons=true&theme=dracula&locale=en" alt="" width=400/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaumyaVerma20&theme=dark" alt="" width=400/></p>
+
 
 
 
