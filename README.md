@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyaverma20&label=Profile%20views&color=0e75b6&style=flat" alt="saumyaverma20" /> </p>
 
-- 🌱 I’m currently learning **React js**
+
+<p>
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Asansol Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨.👨🏻‍💻. I'm currently into Full stack Development 🕸️🤓.
+</p>
+
 
 - 📫 How to reach me **vermasaumya2001@gmail.com**
 
