@@ -2,16 +2,12 @@
 
 <h3 align="center">Software Developer | Java & Spring Boot Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaumyaVerma20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
 I am a passionate **Software Developer** currently working at **Tata Consultancy Services**. With expertise in **Java, Spring Boot, and Microservices**, I love building scalable and efficient applications. I thrive on solving complex backend challenges, optimizing performance, and ensuring system reliability.
@@ -54,7 +50,7 @@ I am a passionate **Software Developer** currently working at **Tata Consultancy
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
 </p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
