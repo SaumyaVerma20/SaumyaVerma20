@@ -14,7 +14,7 @@ I am a passionate **Software Developer** currently working at **Tata Consultancy
 
 💡 **Tech Stack:** Java | Spring Boot | Microservices | MySQL | Hibernate | AWS | Docker | Kubernetes  
 📖 **Currently Exploring:** Kafka | System Design | Low-Level & High-Level Design  
-📈 **Problem-Solving:** Solved **700+ DSA problems** on LeetCode & GFG, **Leetcode Rating: 1587**
+📈 **Problem-Solving:** Solved **700+ DSA problems** on LeetCode & GFG
 
 ---
 
