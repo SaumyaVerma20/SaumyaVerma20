@@ -76,8 +76,4 @@ I'm a Java Backend Developer with a strong interest in building scalable backend
 
 ---
 
-## Connect
 
-- GitHub: https://github.com/SaumyaVerma20
-- LinkedIn: https://linkedin.com/in/saumya-verma09
-- LeetCode: https://leetcode.com/u/saumyav09/
